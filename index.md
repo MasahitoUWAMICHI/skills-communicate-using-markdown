@@ -6,3 +6,12 @@
 ###### h6
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` Python
+import numpy as np
+
+a = np.arange(6)
+b = a * a
+print(b)
+```
+
