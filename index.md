@@ -15,3 +15,7 @@ b = a * a
 print(b)
 ```
 
+- [ ] finish markdown course
+- [ ] finish hello-to-action course
+- [ ] finish test-action course
+
